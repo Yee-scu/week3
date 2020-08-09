@@ -1,6 +1,4 @@
-##This function Function makeCacheMatrix can get a matrix as an input, set the value of the matrix,
-#get the value of the matrix, set the inverse Matrix and get the inverse Matrix. The matrix object
-#can cache its own object. 
+##This function Function makeCacheMatrix can get a matrix as an input and chache the inverse Matrix. 
 
 
 makeCacheMatrix <- function(x = matrix()) {
